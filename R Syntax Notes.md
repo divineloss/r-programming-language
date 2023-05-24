@@ -16,7 +16,28 @@ It works with the following data types:
 
 Variables - Allows R to store inforamtion and associate it with a name. Uses the operator <- to assign variables. An equal sign CAN be used but the <- operator is preferred. 
 
-Vectors - Similar to an array in Python, these are lists that contain items of the same data type. Note that unlike python, elements are counted starting at position one, not zero. 
+Vectors - Similar to an array in Python, these are lists that contain items of the same data type. Note that unlike python, elements are counted starting at position one, not zero. You can check the type of elements in a vector by using typeof(vectorname) and the length using length(vectorname). 
+
+A conditional contains an if statement which evaluates whether something is TRUE or FALSE, which is then followed by a code block or block statement. This is indicated by a set of curly braces. An else statement can be added in as well in the same manner. 
+
+# Comparison Operators
+
+| Type | Description |
+| - | - |
+| < | Less than |
+| > | Greater than | 
+| <= | Less than or equal to |
+| >= | Greater than or equal to |
+| == | Equal to
+| != | Not equal to |
+
+# Logical Operators
+| Type | Description |
+| - | - |
+| AND | & |
+| OR | | |
+| NOT | ! |
+
 
 
 
