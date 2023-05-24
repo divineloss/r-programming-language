@@ -6,7 +6,7 @@ The R language is a programming language used for conducting statistics and othe
 
 It works with the following data types:
 
-| - | - | 
+| - | - |
 | Type | Description |
 | Numeric | Any number iwth ot without a decimal point |
 | Character | Any grouping of characters on your keyboard or text. Most strings are surrounded by single quotes or double quotes, although single is preferred. AKA "string" |
